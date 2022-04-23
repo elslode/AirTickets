@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AirTickets</string>
+    <string name="name_hint">Login</string>
+    <string name="password_hint">Password</string>
+
+    <string name="error_login">invalid_login</string>
+    <string name="error_password">invalid_password</string>
+    <string name="sign_in">Sign In</string>
+
+    <string name="from">From:</string>
+    <string name="to">To:</string>
+
+</resources>
